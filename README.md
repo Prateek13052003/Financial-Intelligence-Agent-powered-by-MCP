@@ -213,13 +213,6 @@ Generate AI-powered financial recommendations.
 
 ---
 
-## Screenshot
-
-### MCP Portfolio Analysis Workflow
-
-![MCP Portfolio Advisor](info.png)
-
----
 
 ## Technologies Used
 
