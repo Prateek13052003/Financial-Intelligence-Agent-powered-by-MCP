@@ -1,5 +1,6 @@
 # Financial-Intelligence-Agent-powered-by-MCP
 
+
 AI-powered Financial Assistant built using the Model Context Protocol (MCP), Ollama, and Qwen 2.5.
 
 This project demonstrates how Large Language Models can interact with external tools and resources through MCP to perform portfolio management, account analysis, and stock trading operations.
